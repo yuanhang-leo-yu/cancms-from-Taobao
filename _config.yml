@@ -26,7 +26,8 @@ twitter: https://twitter.com/sunham_kim/
 # Images
 #avatar: ./files/img/profile_1.jpg
 avatar: ./files/img/profile_1.png
-favicon: ./assets/img/favicon.ico
+#favicon: ./assets/img/favicon.ico
+favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.ico
 
 # Analytics
